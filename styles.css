@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	width:100%
+}
+thead{
+	background:firebrick
+}
+.row1{
+	background:lightcoral
+}
+.row2{
+	background:lightcyan
+}
+.row3{
+	background:lighten
+}
